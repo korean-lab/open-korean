@@ -3,7 +3,19 @@
 
 ## 한국어 관련 프로그래밍 문제 해결 방법 ##
 
-- 단어의 종성에 따라 ['을/를', '이/가', '은/는' 등의 구분](lib/BasicKoreanLib.java)
+### [BasicKoreanLib](lib/BasicKoreanLib.java) ###
+
+- 단어의 종성에 따라 '을/를', '이/가', '은/는' 등의 구분
+
+```java
+/*
+buildEunJosa() : '은, 는'을 구분하기 위한 메소드.
+buildGaJosa() : '이가, 가'를 구분하기 위한 메소드.
+buildEulJosa() : '을, 를'을 구분하기 위한 메소드.
+*/
+String str = BasicKoreanLib.buildEunJosa("제 이름")+" Korean Lab이고 "+ BasicKoreanLib.buildEunJosa("나이") + " 19살입니다.";
+System.out.println(str);
+```
 
 ## 오픈 소스: ##
 
