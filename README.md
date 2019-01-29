@@ -9,7 +9,7 @@
 
 - dha1
 - dha2
-- khaiii
+- [khaiii](https://github.com/kakao/khaiii) - [블로그](https://brunch.co.kr/@kakao-it/308?fbclid=IwAR3IVt-5FKmt4-vygpQlJGQ6S2V0xbVPb-fsuNB0uIl29eGMXUZywMEgqFU)
 
 ## 모임/행사/학회 ##
 
