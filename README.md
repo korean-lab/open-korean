@@ -15,14 +15,13 @@
 
 ### 기술 관련: ###
 
-#### (언어공학연구회)[http://www.hclt.kr/symp/?lnb=conference] ####
-##### (한글 및 한국어 정보처리 학술대회(매년 10월 중순)) #####
+- (언어공학연구회)[http://www.hclt.kr/symp/?lnb=conference]
+-- (한글 및 한국어 정보처리 학술대회(매년 10월 중순))
 
 ### 한글 관련: ###
 
-#### (한글 학회)[https://www.hangeul.or.kr/modules/doc/index.php?doc=intro] ####
-
-##### (구 조선어학회) #####
+- (한글 학회)[https://www.hangeul.or.kr/modules/doc/index.php?doc=intro]
+1. (구 조선어학회) #####
 
 ### 교육관련: ###
 
