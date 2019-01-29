@@ -25,6 +25,15 @@ System.out.println(str);
 - dha2
 - [khaiii](https://github.com/kakao/khaiii) - [블로그](https://brunch.co.kr/@kakao-it/308?fbclid=IwAR3IVt-5FKmt4-vygpQlJGQ6S2V0xbVPb-fsuNB0uIl29eGMXUZywMEgqFU)
 
+#### [Korean Conjugation](https://github.com/dbravender/korean_conjugation) ####
+
+- The mobile version of dongsa.net will run directly in modern browsers. Just
+open up html/index.html in your browser.
+
+### Voice ###
+
+- [multi-speaker-tacotron-tensorflow](https://github.com/carpedm20/multi-speaker-tacotron-tensorflow)
+ 
 ## 모임/행사/학회 ##
 
 ### 기술 관련: ###
