@@ -20,8 +20,8 @@
 
 ### 한글 관련: ###
 
-- (한글 학회)[https://www.hangeul.or.kr/modules/doc/index.php?doc=intro]
-1. (구 조선어학회) #####
+- [한글 학회](https://www.hangeul.or.kr/modules/doc/index.php?doc=intro)
+1. (구 조선어학회)
 
 ### 교육관련: ###
 
