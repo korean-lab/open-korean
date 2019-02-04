@@ -30,6 +30,10 @@ System.out.println(str);
 - The mobile version of dongsa.net will run directly in modern browsers. Just
 open up html/index.html in your browser.
 
+### Text Processing ###
+
+- [mtp](https://github.com/Kyubyong/mtp)
+
 ### Voice ###
 
 - [multi-speaker-tacotron-tensorflow](https://github.com/carpedm20/multi-speaker-tacotron-tensorflow)
