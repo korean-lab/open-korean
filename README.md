@@ -17,20 +17,21 @@ String str = BasicKoreanLib.buildEunJosa("제 이름")+" Korean Lab이고 "+ Bas
 System.out.println(str);
 ```
 
-## 오픈 소스: ##
+## Open Source: ##
 
-### 형태소 분석기 ###
+### Text Processing ###
+
+#### 형태소 분석기 ####
 
 - dha1
 - dha2
 - [khaiii](https://github.com/kakao/khaiii) - [블로그](https://brunch.co.kr/@kakao-it/308?fbclid=IwAR3IVt-5FKmt4-vygpQlJGQ6S2V0xbVPb-fsuNB0uIl29eGMXUZywMEgqFU)
 
-#### [Korean Conjugation](https://github.com/dbravender/korean_conjugation) ####
+#### Conjugations ####
 
-- The mobile version of dongsa.net will run directly in modern browsers. Just
-open up html/index.html in your browser.
+- [Korean Conjugation](https://github.com/dbravender/korean_conjugation)
 
-### Text Processing ###
+#### ETC ####
 
 - [mtp](https://github.com/Kyubyong/mtp)
 
