@@ -44,6 +44,17 @@ System.out.println(str);
 #### Speech To Text ####
 - [zeroth](https://github.com/goodatlas/zeroth)
 
+### Dictionary ###
+
+#### Korean To English ####
+
+##### Chrome Extensions #####
+- [toktogi-plus](https://github.com/scurest/toktogi-plus)
+
+#### English To Korean ####
+##### Chrome Extensions #####
+- [tooltip-dictionary](https://github.com/seoh/tooltip-dictionary)
+
 ## 모임/행사/학회 ##
 
 ### 기술 관련: ###
