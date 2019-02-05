@@ -31,9 +31,13 @@ System.out.println(str);
 
 - [Korean Conjugation](https://github.com/dbravender/korean_conjugation)
 
+#### Proofread ####
+
+- [hunspell: 맞춤법 검사기](https://github.com/spellcheck-ko/hunspell-dict-ko)
+
 #### ETC ####
 
-- [mtp](https://github.com/Kyubyong/mtp)
+- [mtp: letter 석](https://github.com/Kyubyong/mtp)
 
 ### Voice ###
 
