@@ -37,7 +37,7 @@ System.out.println(str);
 
 #### ETC ####
 
-- [mtp: letter 석](https://github.com/Kyubyong/mtp)
+- [mtp: 언어별 letter 분석](https://github.com/Kyubyong/mtp)
 
 ### Voice ###
 
