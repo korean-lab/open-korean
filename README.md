@@ -1,7 +1,7 @@
 # open-korean
 한국어 관련 모임, 행사, 관련 자료 그리고 오픈 소스나 해결 방법에 관한 정보를 공유하는 저장소입니다.
 
-## 한국어 관련 프로그래밍 문제 해결 방법 ##
+<summary>## 한국어 관련 프로그래밍 문제 해결 방법 ##</summary>
 
 ### [BasicKoreanLib](lib/BasicKoreanLib.java) ###
 
@@ -17,7 +17,8 @@ String str = BasicKoreanLib.buildEunJosa("제 이름")+" Korean Lab이고 "+ Bas
 System.out.println(str);
 ```
 
-## Open Source: ##
+</details>
+<details><summary>## Open Source: ##</summary>
 
 ### Text Processing ###
 
@@ -60,7 +61,10 @@ System.out.println(str);
 ##### Chrome Extensions #####
 - [tooltip-dictionary](https://github.com/seoh/tooltip-dictionary)
 
-## 전문가/모임/행사/학회 ##
+</details>
+
+<details>
+  <summary>## 전문가/모임/행사/학회 ##</summary>
 
 ### 기술 관련: ###
 
@@ -85,3 +89,4 @@ System.out.println(str);
 #### 1. [이중언어학회](http://www.korbiling.org/langhak/user/class) ####
 
 #### 2. [국제한국어교육학회](http://www.iakle.com) ####
+</details>
