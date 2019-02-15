@@ -1,7 +1,12 @@
 # open-korean
 한국어 관련 모임, 행사, 관련 자료 그리고 오픈 소스나 해결 방법에 관한 정보를 공유하는 저장소입니다.
 
-<summary>## 한국어 관련 프로그래밍 문제 해결 방법 ##</summary>
+<details>
+<summary>
+  
+  ## 한국어 관련 프로그래밍 문제 해결 방법 ##
+  
+  </summary>
 
 ### [BasicKoreanLib](lib/BasicKoreanLib.java) ###
 
