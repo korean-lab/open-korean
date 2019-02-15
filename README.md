@@ -60,11 +60,18 @@ System.out.println(str);
 ##### Chrome Extensions #####
 - [tooltip-dictionary](https://github.com/seoh/tooltip-dictionary)
 
-## 모임/행사/학회 ##
+## 전문가/모임/행사/학회 ##
 
 ### 기술 관련: ###
 
+[송영숙](https://github.com/songys): 코딩을 좋아하는 국어학 전공자입니다.
+
+[김현중](https://github.com/lovit/): 효율적인 데이터 분석과 한국어 자연어처리에 관심 많은 분석가 입니다.
+
+[박조은](https://github.com/corazzon): 주변에 있는 텍스트를 찾고 분석하는 것을 좋아합니다.
+
 #### 1. [언어공학연구회](http://www.hclt.kr/symp/?lnb=conference)
+
 ##### 한글 및 한국어 정보처리 학술대회(매년 10월 중순) #####
 
 ### 한글 관련: ###
